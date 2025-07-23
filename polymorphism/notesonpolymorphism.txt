@@ -1,0 +1,6 @@
+Function overloading/method overloading/polymorphism
+
+	1. Writing a fucntion with same name more than once but iwth different number of, type of, order of parameters
+	2. Based on parameters, that particular function will be executed 
+
+	

@@ -1,0 +1,11 @@
+Inheritance
+1.Creating a new class based on existing class by adding new functionality. 
+As extending the class by adding new features without disturbing the existing class and depending applications.
+2.All the public and protected members of the base class (existing class) can be accessed from the derived class(new class or child class).
+3.All the public members of the base class can be accessed using derived class object.
+
+Difference between private classes and protected classes
+Private:
+A private member is only accessible by the class in which it is declared. Other classes, even subclasses, cannot directly access or modify it.
+Protected:
+A protected member is accessible within the class where it is declared, within its subclasses (regardless of their package), and sometimes within the same package as the class.

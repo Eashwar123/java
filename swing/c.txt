@@ -1,0 +1,84 @@
+C programming
+
+Computer: is an electronic device
+
+binary language:0s and 1s
+c programming was created by dennis rechie in 1972 in bell laborities. C is mother of programming languages.
+C is a middle languages. Device drivers for writing them we use assembly language.
+
+25
+
+8 bits= 1 byte
+1024 bytes= 1 kilobyte
+1024 kilobytes=1 mega byte
+primary:(temporary memory):
+
+Ram random access memoryu
+Rom: Read only memory
+
+secondary memory/permanent memory
+
+Cd
+harddisk pen drive
+
+
+
+high lvl(english)
+compiler- errors
+.obj(object file)
+it is stored in hard disk
+
+.obj file goes to linker
+ and library files
+links them together
+
+.exe=executable file-hard disk
+
+hARD IS 10,000 slower than cpu
+
+loader-
+to help lpad executable files into ram
+
+
+Ram=
+4 components
+1. stack
+2. heap
+3.code exe
+4. data
+
+CPU= output
+
+
+
+
+IDE=integrated development environment
+
+
+int a,x;
+int a;//initializing
+a=5;
+
+
+&- is a symbol which means adress of
+
+&-address of
+
+&math
+
+- adress of the vatriabke
+
+
+
+
+
+
+
+variable is stored in ram, specifically in stack.
+
+Variable is the name of the address/reference.
+
+
+
+
+

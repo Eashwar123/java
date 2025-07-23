@@ -1,0 +1,39 @@
+C programming structure
+
+#include<stdio.h>//header
+
+int main()//main(opening)
+{
+	int a;
+	char b;
+	b='A';
+	a=5;
+	printf("hello, how are you");
+	printf("%d",b);
+	
+
+return 0;//program code
+	
+}
+
+%d=integer=2 bytes memory
+%c=character=1 byte
+%f=float=5.38947592=4 bytes
+%s=String=4 bytes
+string is nothing but collection of characters
+
+
+\n-next line
+\t-tab space
+
+
+ASCII
+A-65
+B-66
+C-67
+D-68
+
+97-a
+98-b
+
+

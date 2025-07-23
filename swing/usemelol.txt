@@ -1,0 +1,36 @@
+Selection Sorting:
+
+Explain selection sorting with the following example step by st
+Selection sort is a simple sorting technique to sort list of elements. To arrange them in either ascending or descending order.ep
+23,54,67,98,34,66,12,66
+(1)12,54,67,98,34,66,23,66
+(2)12,23,67,98,34,66,54,66
+(3)12,23,34,98,67,66,54,66
+(4)12,23,34,54,67,66,67,66
+(5)12,23,34,54,66,67,67,66
+(6)12,23,34,54,66,66,67,67
+
+the list has been sorted using selection sort
+
+
+
+how?
+1.we find the smallest element in the list of elements and replace it to the first place in the array
+12,54,67,98,34,66,23,66
+2.we've managed to sort the first element. SO the first element part/index 0 part becomes the sorted part. 
+Next, we have to find the next smallest element from the list of the elements.
+23 is the next smallest element
+12,23,67,98,34,66,54,66
+3.the first 2 elements become the sorted part, let us find the next smallest element
+34 is the next smallest elememt
+12,23,34,54,66,66,67,67
+4. First 3 elements become the sorted part, let us find the next smallest elemetnt
+54 is the next smallest element 
+
+
+2 parts in this array. 1 part is unsorted part and the other part is sorted part.
+
+
+
+
+

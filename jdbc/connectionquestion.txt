@@ -1,0 +1,2 @@
+do insert,update and delete in the connection;
+take input values for all;

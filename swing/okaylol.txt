@@ -1,0 +1,104 @@
+8 bits= 1 byte
+1024 bytes= 1 kilo byte
+1024 kb- i mega byte
+1024 mb=1gb
+
+operating system is our mediator for english lang to binary
+
+os- software
+
+software- it is a program.
+program- program is a set of instructuons arranged un order to perform a particular task
+
+2 types of software
+1. System software 
+	1.Operating system
+		i)window ii)unix-linux iii)ms- dos(disk operating system(
+		iv)mac-dos v) mac-windows
+	2.Device drivers: mostly uses c or c++
+	theyre also software programs, which helps you communicate with the specific devices(hardware etc) 
+
+ 2. Application software
+	i)MS word
+	ii)wordpad
+	iii)excel, powerpoint, tally, yt
+
+
+Devices:
+3 types of devices:
+1. Input devices
+	ex:keybaord, mouse, gamepad etc
+2. Output
+	ex:monitor, speakers, printer etc
+
+ 3. Storage device
+	1. Primary memory/temporary memory
+		i)RAM(Random access memory)
+		ii)ROM(Read only memory)
+	2. Secondary memory/ permanent memory
+		i)Harddisks
+		ii)cds
+		iii)pen drives
+
+
+Languages
+3 levels of languages:
+A language(programming language) is used to develop a software.
+ex: java,c,c++, python, ruby etc;
+
+1. high lvl language:
+it is fully written in english/human understandable language
+ex: python, java 
+
+2. low level language:
+ it is written in assembly language
+
+
+3. middle level language:
+c is middle lvl language.
+
+because disk drivers are written in assembly language and the normal programming uses eng/human understandable language.
+
+Linker= links the object files and library files together
+
+.exe file= executable files. these are also stored in harddisk- is 10k times slower than cpu
+
+4. LoaderOS- loads the exe file into RAM
+
+5.RAM- 4 parts/segments
+	1. data
+	2.stack
+	3.heap
+	4.code
+6.CPU- will give us the output
+
+
+
+IDE- Integrated Development environment
+vs code, turboc
+
+turbo c: tc.exe ide's
+compiler: tcc.exe
+linker-Tlink.exe
+library files-.lib, .h
+
+Structure of C:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
